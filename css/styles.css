@@ -1,0 +1,43 @@
+.col-md-2 {
+    background-color: black;
+    height: 100px;
+}
+
+.col-md-3 {
+    background-color: white;
+    height: 100px;
+    padding: 10px;
+}
+
+.right {
+    height: 35px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.col-md-12 {
+    height:500px;
+    background-color: black;
+}
+
+.left {
+    background-color: black;
+    height: 25px;
+    margin-top: 50px;
+}
+
+.row4 {
+    background-color: black;
+    height: 250px;
+    margin-top: 46px;
+}
+
+.row4a {
+    background-color: black;
+    height: 250px;
+    margin-top: 46px;
+    margin-left: 47px;
+}
+
+.bottom {
+    margin-bottom: 50px;
+}
